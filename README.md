@@ -34,9 +34,3 @@
 <h1 align="left"></h1>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Josue162008/count.svg?"  />
-</div>
-
-###
